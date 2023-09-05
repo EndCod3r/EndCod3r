@@ -18,3 +18,5 @@
   - Youtube : <https://youtube.com/@endlord15>
   - Discord : @Endlord15
   - Email : endlord15@pm.me
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endlord15&layout=compact)
