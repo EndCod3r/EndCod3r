@@ -6,7 +6,16 @@
   - Bash
 
 - 📺 Latest YouTube Videos:
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dj6IcxTSEjo"><img width="140px" src="http://img.youtube.com/vi/dj6IcxTSEjo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dj6IcxTSEjo">🔴 LIVE - FORTNITE w/ @Zoizauce</a><br/>Jan 21, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=15BQtpMhUMs"><img width="140px" src="http://img.youtube.com/vi/15BQtpMhUMs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=15BQtpMhUMs">GETTING ALL 120 SHRINES | Breath of the Wild</a><br/>Oct 17, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=C8mbazN4nE8"><img width="140px" src="http://img.youtube.com/vi/C8mbazN4nE8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=C8mbazN4nE8">First Time Playing Portal 1 |  Portal LIVE PT.2</a><br/>Jul 2, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=k0WACaSr1MA"><img width="140px" src="http://img.youtube.com/vi/k0WACaSr1MA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=k0WACaSr1MA">You Won&#39;t Believe That This is Minecraft!</a><br/>May 23, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oK2JpQ2K20w"><img width="140px" src="http://img.youtube.com/vi/oK2JpQ2K20w/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oK2JpQ2K20w">FASTEST WARZONE MATCH, maybe. &lpar;3;08;201&rpar; | Call of Duty: Warzone | Rebirth Island</a><br/>Feb 3, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 - 📫 How to reach me:
