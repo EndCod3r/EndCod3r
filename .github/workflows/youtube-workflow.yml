@@ -19,5 +19,5 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCx5UNJSnMTyvvVL884qkuvw"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '$newline-<a href="$url">$title</a></li>$newline'
+          template: '$newline-<a href="$url">$title</a>$newline'
           committer_email: "endlord15@proton.me"
