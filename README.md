@@ -25,5 +25,11 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Endlord15/galaxybot-discord/pull/1) in [Endlord15/galaxybot-discord](https://github.com/Endlord15/galaxybot-discord)
+2. 💪 Opened PR [#1](https://github.com/Endlord15/galaxybot-discord/pull/1) in [Endlord15/galaxybot-discord](https://github.com/Endlord15/galaxybot-discord)
+3. ❌ Closed PR [#2](https://github.com/ThioJoe/youtube-dl-easy/pull/2) in [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy)
+4. 💪 Opened PR [#2](https://github.com/ThioJoe/youtube-dl-easy/pull/2) in [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy)
+5. ❗ Opened issue [#119](https://github.com/t3l3machus/Villain/issues/119) in [t3l3machus/Villain](https://github.com/t3l3machus/Villain)
+<!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endlord15&layout=compact)
