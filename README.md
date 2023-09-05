@@ -7,16 +7,11 @@
 
 
 - 📺 Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-  - [🔴 LIVE - FORTNITE w/ @Zoizauce](https://www.youtube.com/watch?v=dj6IcxTSEjo)
-
-  - [GETTING ALL 120 SHRINES | Breath of the Wild](https://www.youtube.com/watch?v=15BQtpMhUMs)
-
-  - [First Time Playing Portal 1 |  Portal LIVE PT.2](https://www.youtube.com/watch?v=C8mbazN4nE8)
-
-  - [You Won&#39;t Believe That This is Minecraft!](https://www.youtube.com/watch?v=k0WACaSr1MA)
-
-  - [FASTEST WARZONE MATCH, maybe. &lpar;3;08;201&rpar; | Call of Duty: Warzone | Rebirth Island](https://www.youtube.com/watch?v=oK2JpQ2K20w)
+<!-- YOUTUBE:START -->- [🔴 LIVE - FORTNITE w/ @Zoizauce](https://www.youtube.com/watch?v=dj6IcxTSEjo)
+- [GETTING ALL 120 SHRINES | Breath of the Wild](https://www.youtube.com/watch?v=15BQtpMhUMs)
+- [First Time Playing Portal 1 |  Portal LIVE PT.2](https://www.youtube.com/watch?v=C8mbazN4nE8)
+- [You Won&#39;t Believe That This is Minecraft!](https://www.youtube.com/watch?v=k0WACaSr1MA)
+- [FASTEST WARZONE MATCH, maybe. &lpar;3;08;201&rpar; | Call of Duty: Warzone | Rebirth Island](https://www.youtube.com/watch?v=oK2JpQ2K20w)
 <!-- YOUTUBE:END -->
 
 
