@@ -5,6 +5,10 @@
   - Powershell
   - Bash
 
+- 📺 Latest YouTube Videos:
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 - 📫 How to reach me:
   - Youtube : <https://youtube.com/@endlord15>
   - Discord : @Endlord15
