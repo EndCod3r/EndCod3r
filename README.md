@@ -30,4 +30,4 @@
 3. ❌ Closed PR [#2](https://github.com/ThioJoe/youtube-dl-easy/pull/2) in [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy)
 <!--END_SECTION:activity-->
 
-  ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endlord15&layout=compact)
+  ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact)
