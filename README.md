@@ -23,11 +23,4 @@
   - Discord : @Endlord15
   - Email : endlord15@pm.me
 
-- ⚡ Recent Activity:
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/ThioJoe/youtube-dl-easy/pull/2) in [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy)
-2. 💪 Opened PR [#2](https://github.com/ThioJoe/youtube-dl-easy/pull/2) in [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy)
-3. ❗ Opened issue [#119](https://github.com/t3l3machus/Villain/issues/119) in [t3l3machus/Villain](https://github.com/t3l3machus/Villain)
-<!--END_SECTION:activity-->
-
 ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endlord15&layout=compact)
