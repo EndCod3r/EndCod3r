@@ -6,16 +6,16 @@
   - Bash
 
 - 📺 Latest YouTube Videos:
-<!-- YOUTUBE:START --></a>
-<a href="https://www.youtube.com/watch?v=dj6IcxTSEjo">🔴 LIVE - FORTNITE w/ @Zoizauce</a><br/>
-</a>
-<a href="https://www.youtube.com/watch?v=15BQtpMhUMs">GETTING ALL 120 SHRINES | Breath of the Wild</a><br/>
-</a>
-<a href="https://www.youtube.com/watch?v=C8mbazN4nE8">First Time Playing Portal 1 |  Portal LIVE PT.2</a><br/>
-</a>
-<a href="https://www.youtube.com/watch?v=k0WACaSr1MA">You Won&#39;t Believe That This is Minecraft!</a><br/>
-</a>
-<a href="https://www.youtube.com/watch?v=oK2JpQ2K20w">FASTEST WARZONE MATCH, maybe. &lpar;3;08;201&rpar; | Call of Duty: Warzone | Rebirth Island</a><br/>
+<!-- YOUTUBE:START --><li></a>
+<a href="https://www.youtube.com/watch?v=dj6IcxTSEjo">🔴 LIVE - FORTNITE w/ @Zoizauce</a><br/><li/>
+<li></a>
+<a href="https://www.youtube.com/watch?v=15BQtpMhUMs">GETTING ALL 120 SHRINES | Breath of the Wild</a><br/><li/>
+<li></a>
+<a href="https://www.youtube.com/watch?v=C8mbazN4nE8">First Time Playing Portal 1 |  Portal LIVE PT.2</a><br/><li/>
+<li></a>
+<a href="https://www.youtube.com/watch?v=k0WACaSr1MA">You Won&#39;t Believe That This is Minecraft!</a><br/><li/>
+<li></a>
+<a href="https://www.youtube.com/watch?v=oK2JpQ2K20w">FASTEST WARZONE MATCH, maybe. &lpar;3;08;201&rpar; | Call of Duty: Warzone | Rebirth Island</a><br/><li/>
 <!-- YOUTUBE:END -->
 
 - 📫 How to reach me:
