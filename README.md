@@ -5,6 +5,10 @@
   - Powershell
   - Bash
 
+- 🌱 I'm learning:
+  - Javascript
+  - HTML
+  - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
   - [🔴 LIVE - FORTNITE w/ @Zoizauce](https://www.youtube.com/watch?v=dj6IcxTSEjo)
