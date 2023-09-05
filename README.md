@@ -23,4 +23,4 @@
   - Discord : @Endlord15
   - Email : endlord15@pm.me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endlord15&layout=compact)
+![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endlord15&layout=compact)
