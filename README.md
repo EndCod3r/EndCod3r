@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/4) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
-2. 💪 Opened PR [#4](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/4) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
-3. 🎉 Merged PR [#3](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/3) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
+1. 🎉 Merged PR [#5](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/5) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
+2. 💪 Opened PR [#5](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/5) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
+3. ❌ Closed PR [#4](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/4) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
 <!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact)
