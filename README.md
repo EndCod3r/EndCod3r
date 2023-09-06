@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Endlord15/galaxybot-discord/pull/1) in [Endlord15/galaxybot-discord](https://github.com/Endlord15/galaxybot-discord)
-2. 💪 Opened PR [#1](https://github.com/Endlord15/galaxybot-discord/pull/1) in [Endlord15/galaxybot-discord](https://github.com/Endlord15/galaxybot-discord)
-3. ❌ Closed PR [#2](https://github.com/ThioJoe/youtube-dl-easy/pull/2) in [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy)
+1. ❌ Closed PR [#4](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/4) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
+2. 💪 Opened PR [#4](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/4) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
+3. 🎉 Merged PR [#3](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/3) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
 <!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact)
