@@ -30,4 +30,4 @@
 3. ❌ Closed PR [#4](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/4) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
 <!--END_SECTION:activity-->
 
-  ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact)
+  ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact&theme=transparent)
