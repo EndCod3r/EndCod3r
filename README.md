@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1042](https://github.com/ChrisTitusTech/winutil/pull/1042) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-2. 💪 Opened PR [#1042](https://github.com/ChrisTitusTech/winutil/pull/1042) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-3. 🎉 Merged PR [#5](https://github.com/EndCod3r/galaxy-utilities-discord-bot/pull/5) in [EndCod3r/galaxy-utilities-discord-bot](https://github.com/EndCod3r/galaxy-utilities-discord-bot)
+1. 💪 Opened PR [#1045](https://github.com/ChrisTitusTech/winutil/pull/1045) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+2. ❌ Closed PR [#1042](https://github.com/ChrisTitusTech/winutil/pull/1042) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+3. 💪 Opened PR [#1042](https://github.com/ChrisTitusTech/winutil/pull/1042) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 <!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact&theme=transparent)
