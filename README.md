@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#699](https://github.com/sickcodes/Docker-OSX/issues/699) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
-2. 💪 Opened PR [#1045](https://github.com/ChrisTitusTech/winutil/pull/1045) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-3. ❌ Closed PR [#1042](https://github.com/ChrisTitusTech/winutil/pull/1042) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+1. 🗣 Commented on [#699](https://github.com/sickcodes/Docker-OSX/issues/699#issuecomment-1731158628) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+2. 🔒 Closed issue [#699](https://github.com/sickcodes/Docker-OSX/issues/699) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+3. ❗ Opened issue [#699](https://github.com/sickcodes/Docker-OSX/issues/699) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 <!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact&theme=transparent)
