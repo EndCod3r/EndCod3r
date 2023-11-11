@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Call of Duty: Modern Warfare III Full Campaign Walkthrough | No Commentary](https://www.youtube.com/watch?v=CvJiW5ZndhI)
   - [GETTING ALL 120 SHRINES | Breath of the Wild](https://www.youtube.com/watch?v=15BQtpMhUMs)
   - [First Time Playing Portal 1 |  Portal LIVE PT.2](https://www.youtube.com/watch?v=C8mbazN4nE8)
   - [You Won&#39;t Believe That This is Minecraft!](https://www.youtube.com/watch?v=k0WACaSr1MA)
-  - [FASTEST WARZONE MATCH, maybe. &lpar;3;08;201&rpar; | Call of Duty: Warzone | Rebirth Island](https://www.youtube.com/watch?v=oK2JpQ2K20w)
-  - [IS THIS THE END??!!  | Call of Duty: Vanguard | Campaign PT: 3](https://www.youtube.com/watch?v=6DKN09fkN-g)<!-- YOUTUBE:END -->
+  - [FASTEST WARZONE MATCH, maybe. &lpar;3;08;201&rpar; | Call of Duty: Warzone | Rebirth Island](https://www.youtube.com/watch?v=oK2JpQ2K20w)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
