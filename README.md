@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Revealing My Rank in Fortnite: OG](https://www.youtube.com/watch?v=rMA618J--1A)
   - [🔴 LIVE | The Big Bang Live Event | Fortnite: OG](https://www.youtube.com/watch?v=H5FzhmD17WU)
   - [Call of Duty: Modern Warfare III Full Campaign Walkthrough | No Commentary](https://www.youtube.com/watch?v=CvJiW5ZndhI)
   - [GETTING ALL 120 SHRINES | Breath of the Wild](https://www.youtube.com/watch?v=15BQtpMhUMs)
-  - [First Time Playing Portal 1 |  Portal LIVE PT.2](https://www.youtube.com/watch?v=C8mbazN4nE8)
-  - [You Won&#39;t Believe That This is Minecraft!](https://www.youtube.com/watch?v=k0WACaSr1MA)<!-- YOUTUBE:END -->
+  - [First Time Playing Portal 1 |  Portal LIVE PT.2](https://www.youtube.com/watch?v=C8mbazN4nE8)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
