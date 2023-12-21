@@ -19,7 +19,7 @@
 
 
 - 📫 How to reach me:
-  - Youtube : <https://youtube.com/@endlord15>
+  - Youtube : <https://youtube.com/@endlordhd>
   - Discord : @EndlordHD
   - Email : endlord15@pm.me
 
