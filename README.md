@@ -1,4 +1,4 @@
-## Hi there, I'm [EndCod3r](https://youtube.com/@endlord15)! <img src='https://github.com/EndCod3r/endlord15/blob/main/wave.gif?raw=true](https://github.com/Endlord15/endlord15/blob/38bca1b569f19b03a6cf246c35db5f7e2f331cc5/wave.gif' width=30>
+## Hi there, I'm [EndCod3r](https://youtube.com/@endlordhd)! <img src='https://github.com/EndCod3r/endlord15/blob/main/wave.gif?raw=true](https://github.com/Endlord15/endlord15/blob/38bca1b569f19b03a6cf246c35db5f7e2f331cc5/wave.gif' width=30>
 
 - 🦾 Great in:
   - Python
