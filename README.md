@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Playing ULTRAKILL | LIVE 🔴](https://www.youtube.com/watch?v=O2mFfcHM02o)
   - [First Time Play Fortnite Chapter 5!](https://www.youtube.com/watch?v=27TVPtvLzR4)
   - [The Big Bang Live Event - No Commentary | Fortnite: OG](https://www.youtube.com/watch?v=4ALgSeL2gHU)
   - [Revealing My Rank in Fortnite: OG](https://www.youtube.com/watch?v=rMA618J--1A)
-  - [Call of Duty: Modern Warfare III Full Campaign Walkthrough | No Commentary](https://www.youtube.com/watch?v=CvJiW5ZndhI)
-  - [GETTING ALL 120 SHRINES | Breath of the Wild](https://www.youtube.com/watch?v=15BQtpMhUMs)<!-- YOUTUBE:END -->
+  - [Call of Duty: Modern Warfare III Full Campaign Walkthrough | No Commentary](https://www.youtube.com/watch?v=CvJiW5ZndhI)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
