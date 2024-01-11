@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Playing Lethal Company is VERY CHAOTIC!](https://www.youtube.com/watch?v=wMQgJ02adKc)
   - [Can I Make It Past Chamber 3?! | Enter the Gungeon | LIVE 🔴](https://www.youtube.com/watch?v=vpeOHRaAVkQ)
   - [First Time Play Fortnite Chapter 5!](https://www.youtube.com/watch?v=27TVPtvLzR4)
   - [The Big Bang Live Event - No Commentary | Fortnite: OG](https://www.youtube.com/watch?v=4ALgSeL2gHU)
-  - [Revealing My Rank in Fortnite: OG](https://www.youtube.com/watch?v=rMA618J--1A)
-  - [Call of Duty: Modern Warfare III Full Campaign Walkthrough | No Commentary](https://www.youtube.com/watch?v=CvJiW5ZndhI)<!-- YOUTUBE:END -->
+  - [Revealing My Rank in Fortnite: OG](https://www.youtube.com/watch?v=rMA618J--1A)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
