@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11016](https://github.com/microsoft/WSL/issues/11016) in [microsoft/WSL](https://github.com/microsoft/WSL)
-2. 🗣 Commented on [#1255](https://github.com/ChrisTitusTech/winutil/pull/1255#issuecomment-1843815116) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-3. 💪 Opened PR [#1265](https://github.com/ChrisTitusTech/winutil/pull/1265) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+1. 🔒 Closed issue [#701](https://github.com/sickcodes/Docker-OSX/issues/701) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+2. ❗ Opened issue [#3263](https://github.com/prettier/prettier-vscode/issues/3263) in [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)
+3. ❗ Opened issue [#11016](https://github.com/microsoft/WSL/issues/11016) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact&theme=transparent)
