@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Playing Siege after 2 YEARS is still HILARIOUS!!](https://www.youtube.com/watch?v=mZ6l2PE8TrA)
   - [Rainbow 6 Siege is SUPER HILARIOUS! #rainbowsixsiege](https://www.youtube.com/watch?v=HN01FQrGKlo)
   - [He has NEVER played Lethal Company!](https://www.youtube.com/watch?v=Bgr67OsyaRM)
   - [Playing Lethal Company is VERY CHAOTIC!](https://www.youtube.com/watch?v=wMQgJ02adKc)
-  - [Can I Make It Past Chamber 3?! | Enter the Gungeon | LIVE 🔴](https://www.youtube.com/watch?v=vpeOHRaAVkQ)
-  - [First Time Play Fortnite Chapter 5!](https://www.youtube.com/watch?v=27TVPtvLzR4)<!-- YOUTUBE:END -->
+  - [Can I Make It Past Chamber 3?! | Enter the Gungeon | LIVE 🔴](https://www.youtube.com/watch?v=vpeOHRaAVkQ)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
