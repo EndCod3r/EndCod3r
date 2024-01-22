@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Lethal Company Moments that are HILARIOUS!](https://www.youtube.com/watch?v=CodaFEKjeOA)
   - [Playing Siege after 2 YEARS is still HILARIOUS!!](https://www.youtube.com/watch?v=mZ6l2PE8TrA)
   - [Rainbow 6 Siege is SUPER HILARIOUS! #rainbowsixsiege](https://www.youtube.com/watch?v=HN01FQrGKlo)
   - [He has NEVER played Lethal Company!](https://www.youtube.com/watch?v=Bgr67OsyaRM)
-  - [Playing Lethal Company is VERY CHAOTIC!](https://www.youtube.com/watch?v=wMQgJ02adKc)
-  - [Can I Make It Past Chamber 3?! | Enter the Gungeon | LIVE 🔴](https://www.youtube.com/watch?v=vpeOHRaAVkQ)<!-- YOUTUBE:END -->
+  - [Playing Lethal Company is VERY CHAOTIC!](https://www.youtube.com/watch?v=wMQgJ02adKc)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
