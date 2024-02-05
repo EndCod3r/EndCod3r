@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [TROLLING with the WORST Microphone in Siege SOLO!](https://www.youtube.com/watch?v=d5xyWCbOg5Y)
   - [Playing Lethal Company is INSANE!](https://www.youtube.com/watch?v=fAsCqnvKL-s)
   - [Recruit Moments that are CRAZY!](https://www.youtube.com/watch?v=dr6BImIp3OA)
   - [Lethal Company Moments that are HILARIOUS!](https://www.youtube.com/watch?v=CodaFEKjeOA)
-  - [Playing Siege after 2 YEARS is still HILARIOUS!!](https://www.youtube.com/watch?v=mZ6l2PE8TrA)
-  - [Rainbow 6 Siege is SUPER HILARIOUS! #rainbowsixsiege](https://www.youtube.com/watch?v=HN01FQrGKlo)<!-- YOUTUBE:END -->
+  - [Playing Siege after 2 YEARS is still HILARIOUS!!](https://www.youtube.com/watch?v=mZ6l2PE8TrA)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
