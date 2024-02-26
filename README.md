@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [UNREAL Fortnite Memes are INSANE!](https://www.youtube.com/watch?v=cNOPgUOp3E0)
   - [TROLLING with the WORST Microphone in Siege!](https://www.youtube.com/watch?v=d5xyWCbOg5Y)
   - [Playing Lethal Company is INSANE!](https://www.youtube.com/watch?v=fAsCqnvKL-s)
   - [Recruit Moments that are CRAZY! | Rainbow Six Siege](https://www.youtube.com/watch?v=dr6BImIp3OA)
-  - [Lethal Company Moments that are HILARIOUS!](https://www.youtube.com/watch?v=CodaFEKjeOA)
-  - [Playing Siege after 2 YEARS is still HILARIOUS!!](https://www.youtube.com/watch?v=mZ6l2PE8TrA)<!-- YOUTUBE:END -->
+  - [Lethal Company Moments that are HILARIOUS!](https://www.youtube.com/watch?v=CodaFEKjeOA)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
