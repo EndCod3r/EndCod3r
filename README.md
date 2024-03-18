@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [I CLUTCHED this REVIEVE!! 😳 #rainbowsixsiege #siegefunnymoments #gaming #siege #games #r6s](https://www.youtube.com/watch?v=Im6AQQXmoQ8)
+  - [I TROLLED this Mira! 😂  #rainbowsixsiege #siegefunnymoments #gaming #siege #games #r6s](https://www.youtube.com/watch?v=3ZZ8xpJ8Iz4)
   - [This guy TK’d me! 🤣 #rainbowsixsiege #siegefunnymoments #gaming #siege #games #r6s](https://www.youtube.com/watch?v=NEM3Q3FaRhA)
   - [INSANE GOONING MOMENTS IN SIEGE](https://www.youtube.com/watch?v=XDUI3jwq4jk)
-  - [FORTNITE CHAPTER 5 SEASON 2 IS CRAZY!](https://www.youtube.com/watch?v=7eSBhEwm0U8)
-  - [UNREAL Fortnite Memes are INSANE!](https://www.youtube.com/watch?v=cNOPgUOp3E0)
-  - [TROLLING with the WORST Microphone in Siege!](https://www.youtube.com/watch?v=d5xyWCbOg5Y)<!-- YOUTUBE:END -->
+  - [FORTNITE CHAPTER 5 SEASON 2 IS CRAZY!](https://www.youtube.com/watch?v=7eSBhEwm0U8)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
