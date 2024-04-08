@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [OFFENSIVE RAINBOW SIX SIEGE MOMENTS](https://www.youtube.com/watch?v=j9kgx48ekjg)
   - [What is this guy going to do to me?! 😲#rainbowsixsiege #siegefunnymoments #gaming #siege #games](https://www.youtube.com/watch?v=HVF58YDwcvw)
   - [I CLUTCHED this REVIEVE!! 😳 #rainbowsixsiege #siegefunnymoments #gaming #siege #games #r6s](https://www.youtube.com/watch?v=Im6AQQXmoQ8)
   - [I TROLLED this Mira! 😂  #rainbowsixsiege #siegefunnymoments #gaming #siege #games #r6s](https://www.youtube.com/watch?v=3ZZ8xpJ8Iz4)
-  - [This guy TK’d me! 🤣 #rainbowsixsiege #siegefunnymoments #gaming #siege #games #r6s](https://www.youtube.com/watch?v=NEM3Q3FaRhA)
-  - [INSANE GOONING MOMENTS IN SIEGE](https://www.youtube.com/watch?v=XDUI3jwq4jk)<!-- YOUTUBE:END -->
+  - [This guy TK’d me! 🤣 #rainbowsixsiege #siegefunnymoments #gaming #siege #games #r6s](https://www.youtube.com/watch?v=NEM3Q3FaRhA)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
