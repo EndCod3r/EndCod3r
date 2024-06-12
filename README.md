@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#568](https://github.com/surfbryce/beautiful-lyrics/issues/568#issuecomment-2119120410) in [surfbryce/beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics)
-2. 🗣 Commented on [#550](https://github.com/surfbryce/beautiful-lyrics/issues/550#issuecomment-2119120295) in [surfbryce/beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics)
-3. 💪 Opened PR [#24](https://github.com/2called-chaos/gtav-online-ahk/pull/24) in [2called-chaos/gtav-online-ahk](https://github.com/2called-chaos/gtav-online-ahk)
+1. ❌ Closed PR [#1](https://github.com/EndCod3r/TokyoPichu/pull/1) in [EndCod3r/TokyoPichu](https://github.com/EndCod3r/TokyoPichu)
+2. 💪 Opened PR [#1](https://github.com/EndCod3r/TokyoPichu/pull/1) in [EndCod3r/TokyoPichu](https://github.com/EndCod3r/TokyoPichu)
+3. ❌ Closed PR [#54](https://github.com/NYRI4/LilyPichu/pull/54) in [NYRI4/LilyPichu](https://github.com/NYRI4/LilyPichu)
 <!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact&theme=transparent)
