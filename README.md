@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [JFK Assassination Real  #rainbowsixsiege #siegefunnymoments #r6funnymoments #gaming #siegemoments](https://www.youtube.com/watch?v=xiCy_RPB_6Y)
   - [HE HAS NEVER PLAYED SIEGE!](https://www.youtube.com/watch?v=jEVnrcqKlpw)
   - [HILARIOUS Recruit Moments 2! | Rainbow Six Siege](https://www.youtube.com/watch?v=yhjR7Cz2y6w)
   - [Sneak peak for my new video  #siegefunnymoments #r6siege #r6funnymoments #gaming #r6sfunny #rainbow6](https://www.youtube.com/watch?v=EYqcfwsKxDE)
-  - [CHAOTIC Rainbow Six Siege Moments](https://www.youtube.com/watch?v=6q_8GXr_veM)
-  - [Hilarious Siege Moments at 1AM](https://www.youtube.com/watch?v=W_iC29iFaHk)<!-- YOUTUBE:END -->
+  - [CHAOTIC Rainbow Six Siege Moments](https://www.youtube.com/watch?v=6q_8GXr_veM)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
