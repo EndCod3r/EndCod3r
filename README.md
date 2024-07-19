@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/EndCod3r/TokyoPichu/pull/1) in [EndCod3r/TokyoPichu](https://github.com/EndCod3r/TokyoPichu)
-2. 💪 Opened PR [#1](https://github.com/EndCod3r/TokyoPichu/pull/1) in [EndCod3r/TokyoPichu](https://github.com/EndCod3r/TokyoPichu)
-3. ❌ Closed PR [#54](https://github.com/NYRI4/LilyPichu/pull/54) in [NYRI4/LilyPichu](https://github.com/NYRI4/LilyPichu)
+1. 🎉 Merged PR [#2](https://github.com/EndCod3r/TokyoPichu/pull/2) in [EndCod3r/TokyoPichu](https://github.com/EndCod3r/TokyoPichu)
+2. 💪 Opened PR [#2](https://github.com/EndCod3r/TokyoPichu/pull/2) in [EndCod3r/TokyoPichu](https://github.com/EndCod3r/TokyoPichu)
+3. ❌ Closed PR [#1](https://github.com/EndCod3r/TokyoPichu/pull/1) in [EndCod3r/TokyoPichu](https://github.com/EndCod3r/TokyoPichu)
 <!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact&theme=transparent)
