@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [FAT A** Siege Moments That Are HILARIOUS](https://www.youtube.com/watch?v=cBj1d-8zCfA)
   - [40 MINUTES of Team Killing in Rainbow Six Siege](https://www.youtube.com/watch?v=8Q7wdpnOYJ8)
   - [Easy 4k with Vigil on Outback  #rainbowsixsiege #siegefunnymoments #r6funnymoments #gaming  #r6siege](https://www.youtube.com/watch?v=nTtr9C4DTAs)
   - [JFK Assassination Real  #rainbowsixsiege #siegefunnymoments #r6funnymoments #gaming #siegemoments](https://www.youtube.com/watch?v=xiCy_RPB_6Y)
-  - [HE HAS NEVER PLAYED SIEGE!](https://www.youtube.com/watch?v=jEVnrcqKlpw)
-  - [HILARIOUS Recruit Moments 2! | Rainbow Six Siege](https://www.youtube.com/watch?v=yhjR7Cz2y6w)<!-- YOUTUBE:END -->
+  - [HE HAS NEVER PLAYED SIEGE!](https://www.youtube.com/watch?v=jEVnrcqKlpw)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
