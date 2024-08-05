@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v0.2.0](https://github.com/EndCod3r/pc-optimizer/releases/tag/v0.2.0) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
-2. ❗ Opened issue [#5](https://github.com/EndCod3r/pc-optimizer/issues/5) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
-3. 🎉 Merged PR [#4](https://github.com/EndCod3r/pc-optimizer/pull/4) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
+1. 🎉 Merged PR [#6](https://github.com/EndCod3r/pc-optimizer/pull/6) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
+2. 🚀 Published release [Release v0.2.1](https://github.com/EndCod3r/pc-optimizer/releases/tag/v0.2.1) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
+3. 🎉 Merged PR [#6](https://github.com/EndCod3r/pc-optimizer/pull/6) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
 <!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact&theme=transparent)
