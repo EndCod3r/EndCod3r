@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/EndCod3r/pc-optimizer/pull/6) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
-2. 🚀 Published release [Release v0.2.1](https://github.com/EndCod3r/pc-optimizer/releases/tag/v0.2.1) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
-3. 🎉 Merged PR [#6](https://github.com/EndCod3r/pc-optimizer/pull/6) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
+1. ❗ Opened issue [#167](https://github.com/t3l3machus/Villain/issues/167) in [t3l3machus/Villain](https://github.com/t3l3machus/Villain)
+2. 🎉 Merged PR [#6](https://github.com/EndCod3r/pc-optimizer/pull/6) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
+3. 🚀 Published release [Release v0.2.1](https://github.com/EndCod3r/pc-optimizer/releases/tag/v0.2.1) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
 <!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact&theme=transparent)
