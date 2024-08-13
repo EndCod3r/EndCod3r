@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [and bro wonder&#39;s why I don&#39;t want to play with him. #warzone #warzone2 #warzoneclips #funnyclips #wz](https://www.youtube.com/watch?v=JZsJr_w81CU)
   - [This is FREE FPS IS HILARIOUS! | Banana Shooter](https://www.youtube.com/watch?v=cZxAPPSsuMI)
   - [karate kid warzone #warzone #warzoneclips #warzone2 #funny #funnyvideo #clips #funnyclips #wz #wz2](https://www.youtube.com/watch?v=LJNpCH7_4uk)
   - [Dumb Siege Moments #rainbowsixsiege #r6sfunny #r6siege #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=Oka4sbGkw9s)
-  - [FAT A** Siege Moments That Are HILARIOUS](https://www.youtube.com/watch?v=cBj1d-8zCfA)
-  - [40 MINUTES of Team Killing in Rainbow Six Siege](https://www.youtube.com/watch?v=8Q7wdpnOYJ8)<!-- YOUTUBE:END -->
+  - [FAT A** Siege Moments That Are HILARIOUS](https://www.youtube.com/watch?v=cBj1d-8zCfA)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
