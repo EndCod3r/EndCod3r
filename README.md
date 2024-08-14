@@ -15,7 +15,7 @@
   - [This is FREE FPS IS HILARIOUS! | Banana Shooter](https://www.youtube.com/watch?v=cZxAPPSsuMI)
   - [karate kid warzone #warzone #warzoneclips #warzone2 #funny #funnyvideo #clips #funnyclips #wz #wz2](https://www.youtube.com/watch?v=LJNpCH7_4uk)
   - [Dumb Siege Moments #rainbowsixsiege #r6sfunny #r6siege #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=Oka4sbGkw9s)
-  - [FAT A** Siege Moments That Are HILARIOUS](https://www.youtube.com/watch?v=cBj1d-8zCfA)<!-- YOUTUBE:END -->
+  - [FAT A██ Siege Moments That Are HILARIOUS](https://www.youtube.com/watch?v=cBj1d-8zCfA)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
