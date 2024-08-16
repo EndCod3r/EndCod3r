@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [&quot;a level?&quot; #rainbowsixsiege #r6sfunny #r6siege #r6funnymoments #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=CyCHd6OCvEg)
   - [I set the bitrate to 8.💀 #discordmemes #discord #discordtroll #discordvideos#lowqualitymemes #funny](https://www.youtube.com/watch?v=GjbXMgiYDVI)
   - [Down Syndrome Siege](https://www.youtube.com/watch?v=frtirplP8g0)
   - [and bro wonder&#39;s why I don&#39;t want to play with him. #warzone #warzone2 #warzoneclips #funnyclips #wz](https://www.youtube.com/watch?v=JZsJr_w81CU)
-  - [This is FREE FPS IS HILARIOUS! | Banana Shooter](https://www.youtube.com/watch?v=cZxAPPSsuMI)
-  - [karate kid warzone #warzone #warzoneclips #warzone2 #funny #funnyvideo #clips #funnyclips #wz #wz2](https://www.youtube.com/watch?v=LJNpCH7_4uk)<!-- YOUTUBE:END -->
+  - [This is FREE FPS IS HILARIOUS! | Banana Shooter](https://www.youtube.com/watch?v=cZxAPPSsuMI)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
