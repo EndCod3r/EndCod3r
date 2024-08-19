@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Bro was yapping so much #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #funny](https://www.youtube.com/watch?v=mc0Z4a5_iYU)
   - [Bro was off a perc #rainbowsixsiege #r6sfunny #r6siege #r6funnymoments #gaming #r6moments #funny](https://www.youtube.com/watch?v=58bRNkSKz9g)
   - [What is 90? #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=7Jf3m_fX8Ng)
   - [Now we&#39;re talking! #rainbowsixsiege #r6sfunny #r6siege #r6funnymoments #gaming #rainbowsix #funny](https://www.youtube.com/watch?v=aRjjCD0d5bY)
-  - [I didn&#39;t get black ice. #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #funny](https://www.youtube.com/watch?v=tMVsrWFLAlg)
-  - [&quot;a level?&quot; #rainbowsixsiege #r6sfunny #r6siege #r6funnymoments #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=CyCHd6OCvEg)<!-- YOUTUBE:END -->
+  - [I didn&#39;t get black ice. #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #funny](https://www.youtube.com/watch?v=tMVsrWFLAlg)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
