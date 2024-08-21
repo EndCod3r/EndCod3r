@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Bro is 100% useless #rainbowsixsiege #r6sfunny #r6siege #r6funnymoments #gaming #r6moments #funny](https://www.youtube.com/watch?v=49p7VnfiTyE)
   - [Yes Jacube! #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=D_01Dcb6YBU)
   - [Bro&#39;s recruit in standard! #rainbowsixsiege #r6sfunny #r6siege #gaming #r6moments #funny #rainbowsix](https://www.youtube.com/watch?v=WqznMkAEBgY)
   - [Bro&#39;s aim is crazy!  #rainbowsixsiege #r6sfunny #r6siege #r6funnymoments #gaming #r6moments #funny](https://www.youtube.com/watch?v=9OKJ39JKKpU)
-  - [Bro is SO done! #rainbowsixsiege #r6sfunny #r6siege #gaming #r6moments #rainbowsix #funny  #r6funny](https://www.youtube.com/watch?v=bN3pL3A4VrU)
-  - [Bro was yapping so much #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #funny](https://www.youtube.com/watch?v=mc0Z4a5_iYU)<!-- YOUTUBE:END -->
+  - [Bro is SO done! #rainbowsixsiege #r6sfunny #r6siege #gaming #r6moments #rainbowsix #funny  #r6funny](https://www.youtube.com/watch?v=bN3pL3A4VrU)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
