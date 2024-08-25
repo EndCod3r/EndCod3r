@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [BLOWING MY ENTIRE TEAM! | Rainbow Six Siege](https://www.youtube.com/watch?v=vXgOduieWIk)
   - [Seventh Heaven #edit #edits #lyrics #aftereffects #nostalgia #inoha #shorts #crt](https://www.youtube.com/watch?v=y3Fcg-5ol64)
   - [youknowhowlongivebeenwaitingforthis  #rainbowsixsiege #rainbow6siegegreatestmoments #gaming #r6s](https://www.youtube.com/watch?v=0NxvAzNYuMg)
   - [Bro is 100% useless #rainbowsixsiege #r6sfunny #r6siege #r6funnymoments #gaming #r6moments #funny](https://www.youtube.com/watch?v=49p7VnfiTyE)
-  - [Yes Jacube! #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=D_01Dcb6YBU)
-  - [Bro&#39;s recruit in standard! #rainbowsixsiege #r6sfunny #r6siege #gaming #r6moments #funny #rainbowsix](https://www.youtube.com/watch?v=WqznMkAEBgY)<!-- YOUTUBE:END -->
+  - [Yes Jacube! #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=D_01Dcb6YBU)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
