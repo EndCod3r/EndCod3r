@@ -13,7 +13,7 @@
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
   - [so wassup? edit 2  #rainbowsixsiege #rainbow6siegegreatestmoments #gaming #r6siege #siegeclips #r6s](https://www.youtube.com/watch?v=tuT1y7ROhFw)
   - [so wassup? #rainbowsixsiege #rainbow6siegegreatestmoments  #gaming #r6siege #siegeclips #siege #r6s](https://www.youtube.com/watch?v=ljdwLF4WYYg)
-  - [BLOWING MY ENTIRE TEAM! | Rainbow Six Siege](https://www.youtube.com/watch?v=vXgOduieWIk)
+  - [BLOWING UP MY ENTIRE TEAM! | Rainbow Six Siege](https://www.youtube.com/watch?v=vXgOduieWIk)
   - [Seventh Heaven #edit #edits #lyrics #aftereffects #nostalgia #inoha #shorts #crt](https://www.youtube.com/watch?v=y3Fcg-5ol64)
   - [youknowhowlongivebeenwaitingforthis  #rainbowsixsiege #rainbow6siegegreatestmoments #gaming #r6s](https://www.youtube.com/watch?v=0NxvAzNYuMg)<!-- YOUTUBE:END -->
 
