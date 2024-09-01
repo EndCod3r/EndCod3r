@@ -12,10 +12,10 @@
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
   - [MY BEST SIEGE MATCH EVER!](https://www.youtube.com/watch?v=q-9p177uxPs)
-  - [so wassup? edit 2  #rainbowsixsiege #rainbow6siegegreatestmoments #gaming #r6siege #siegeclips #r6s](https://www.youtube.com/watch?v=tuT1y7ROhFw)
-  - [so wassup? #rainbowsixsiege #rainbow6siegegreatestmoments  #gaming #r6siege #siegeclips #siege #r6s](https://www.youtube.com/watch?v=ljdwLF4WYYg)
   - [BLOWING UP MY ENTIRE TEAM! | Rainbow Six Siege](https://www.youtube.com/watch?v=vXgOduieWIk)
-  - [Seventh Heaven #edit #edits #lyrics #aftereffects #nostalgia #inoha #shorts #crt](https://www.youtube.com/watch?v=y3Fcg-5ol64)<!-- YOUTUBE:END -->
+  - [Bro is 100% useless #rainbowsixsiege #r6sfunny #r6siege #r6funnymoments #gaming #r6moments #funny](https://www.youtube.com/watch?v=49p7VnfiTyE)
+  - [Yes Jacube! #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=D_01Dcb6YBU)
+  - [Bro&#39;s recruit in standard! #rainbowsixsiege #r6sfunny #r6siege #gaming #r6moments #funny #rainbowsix](https://www.youtube.com/watch?v=WqznMkAEBgY)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
