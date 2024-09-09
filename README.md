@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [GEORGE BUSH PLAYS SIEGE?!](https://www.youtube.com/watch?v=2Zl160fOeuk)
   - [MY BEST SIEGE MATCH EVER!](https://www.youtube.com/watch?v=q-9p177uxPs)
   - [BLOWING UP MY ENTIRE TEAM! | Rainbow Six Siege](https://www.youtube.com/watch?v=vXgOduieWIk)
   - [Bro is 100% useless #rainbowsixsiege #r6sfunny #r6siege #r6funnymoments #gaming #r6moments #funny](https://www.youtube.com/watch?v=49p7VnfiTyE)
-  - [Yes Jacube! #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=D_01Dcb6YBU)
-  - [Bro&#39;s recruit in standard! #rainbowsixsiege #r6sfunny #r6siege #gaming #r6moments #funny #rainbowsix](https://www.youtube.com/watch?v=WqznMkAEBgY)<!-- YOUTUBE:END -->
+  - [Yes Jacube! #rainbowsixsiege #r6funny #r6siege #r6funnymoments #gaming #r6moments #rainbowsix #funny](https://www.youtube.com/watch?v=D_01Dcb6YBU)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
