@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [TROLLING My Mad Teammates in Siege](https://www.youtube.com/watch?v=LbIE-S3FCWc)
   - [The MOST Confusing Siege Moments EVER](https://www.youtube.com/watch?v=Ke_dJl4MPK4)
   - [OUTBACK SIEGE MOMENTS!](https://www.youtube.com/watch?v=VEyKCMIz4Ck)
   - [GEORGE BUSH PLAYS SIEGE?!](https://www.youtube.com/watch?v=2Zl160fOeuk)
-  - [MY BEST SIEGE MATCH EVER!](https://www.youtube.com/watch?v=q-9p177uxPs)
-  - [BLOWING UP MY ENTIRE TEAM! | Rainbow Six Siege](https://www.youtube.com/watch?v=vXgOduieWIk)<!-- YOUTUBE:END -->
+  - [MY BEST SIEGE MATCH EVER!](https://www.youtube.com/watch?v=q-9p177uxPs)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
