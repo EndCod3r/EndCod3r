@@ -11,7 +11,7 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
-  - [EndLordHD&#39;s FUNNIEST MOMENTS OF 2024](https://www.youtube.com/watch?v=n1A6nThyaV4)
+  - [EndLordHD&#39;s BEST MOMENTS OF 2024](https://www.youtube.com/watch?v=n1A6nThyaV4)
   - [The FUNNIEST Fortnite Remix Moments EVER](https://www.youtube.com/watch?v=0AGNcnjgvEY)
   - [TROLLING My Mad Teammates in Siege](https://www.youtube.com/watch?v=LbIE-S3FCWc)
   - [The MOST Confusing Siege Moments EVER](https://www.youtube.com/watch?v=Ke_dJl4MPK4)
