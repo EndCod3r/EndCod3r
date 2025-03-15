@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [R.E.P.O. is AMAZING! | REPO Funny Moments](https://www.youtube.com/watch?v=7lawiCFOjqU)
   - [HILARIOUS LiveLeak Siege Moments](https://www.youtube.com/watch?v=lQyP6e0z8HU)
   - [This FREE Steam Game Is Better Than NHL 25](https://www.youtube.com/watch?v=OrZ1lYrGlmE)
   - [THE FUNNIEST RUST MOMENTS EVER!](https://www.youtube.com/watch?v=-Dqs07_bcC4)
-  - [Siege Moments That Make Me Want to UNINSTALL!](https://www.youtube.com/watch?v=19Uty65PEk4)
-  - [WE ARE THE WORST SIEGE PLAYERS!](https://www.youtube.com/watch?v=tBgwOoFFfyc)<!-- YOUTUBE:END -->
+  - [Siege Moments That Make Me Want to UNINSTALL!](https://www.youtube.com/watch?v=19Uty65PEk4)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
