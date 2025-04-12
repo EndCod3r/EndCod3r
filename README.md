@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [4 IDIOTS TRY TO PLAY REPO!](https://www.youtube.com/watch?v=gCYN5o1lKeY)
   - [THE WORST REPO TRIO EVER!](https://www.youtube.com/watch?v=et_wYWfKSaw)
   - [R.E.P.O. is AMAZING! | REPO Funny Moments](https://www.youtube.com/watch?v=7lawiCFOjqU)
   - [HILARIOUS LiveLeak Siege Moments](https://www.youtube.com/watch?v=lQyP6e0z8HU)
-  - [This FREE Steam Game Is Better Than NHL 25](https://www.youtube.com/watch?v=OrZ1lYrGlmE)
-  - [THE FUNNIEST RUST MOMENTS EVER!](https://www.youtube.com/watch?v=-Dqs07_bcC4)<!-- YOUTUBE:END -->
+  - [This FREE Steam Game Is Better Than NHL 25](https://www.youtube.com/watch?v=OrZ1lYrGlmE)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
