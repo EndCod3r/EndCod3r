@@ -12,10 +12,10 @@
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
   - [OUR FUNNIEST REPO VIDEO YET](https://www.youtube.com/watch?v=i8qfyuTSgfA)
+  - [THE MOST HILARIOUS RUST VIDEO ON YOUTUBE!](https://www.youtube.com/watch?v=6XUYfQurhow)
   - [HIDE AND SEEK IN REPO IS INSANE!](https://www.youtube.com/watch?v=5xFnTv4ATB4)
   - [4 IDIOTS TRY TO PLAY REPO!](https://www.youtube.com/watch?v=gCYN5o1lKeY)
-  - [THE WORST REPO TRIO EVER!](https://www.youtube.com/watch?v=et_wYWfKSaw)
-  - [R.E.P.O. is AMAZING! | REPO Funny Moments](https://www.youtube.com/watch?v=7lawiCFOjqU)<!-- YOUTUBE:END -->
+  - [THE WORST REPO TRIO EVER!](https://www.youtube.com/watch?v=et_wYWfKSaw)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
