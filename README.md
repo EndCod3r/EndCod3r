@@ -11,8 +11,8 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
-  - [OUR FUNNIEST REPO VIDEO YET](https://www.youtube.com/watch?v=i8qfyuTSgfA)
   - [THE FUNNIEST RUST VIDEO ON YOUTUBE!](https://www.youtube.com/watch?v=6XUYfQurhow)
+  - [OUR FUNNIEST REPO VIDEO YET](https://www.youtube.com/watch?v=i8qfyuTSgfA)
   - [HIDE AND SEEK IN REPO IS INSANE!](https://www.youtube.com/watch?v=5xFnTv4ATB4)
   - [4 IDIOTS TRY TO PLAY REPO!](https://www.youtube.com/watch?v=gCYN5o1lKeY)
   - [THE WORST REPO TRIO EVER!](https://www.youtube.com/watch?v=et_wYWfKSaw)<!-- YOUTUBE:END -->
