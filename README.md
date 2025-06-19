@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [We Tried the Funniest Courtroom Game Ever!](https://www.youtube.com/watch?v=l6l_Cfwk978)
   - [Rainbow Six Siege But We Are NOT LOCKED IN AT ALL](https://www.youtube.com/watch?v=ZlzpjL4xlpM)
   - [TALON SUCKS AT SIEGE](https://www.youtube.com/watch?v=uoEDsU5hYos)
   - [THE FUNNIEST RUST VIDEO ON YOUTUBE!](https://www.youtube.com/watch?v=6XUYfQurhow)
-  - [OUR FUNNIEST REPO VIDEO YET](https://www.youtube.com/watch?v=i8qfyuTSgfA)
-  - [HIDE AND SEEK IN REPO IS INSANE!](https://www.youtube.com/watch?v=5xFnTv4ATB4)<!-- YOUTUBE:END -->
+  - [OUR FUNNIEST REPO VIDEO YET](https://www.youtube.com/watch?v=i8qfyuTSgfA)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
