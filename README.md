@@ -25,8 +25,8 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/waaverecords/CmdPal.Ext.Spotify/issues/8) in [waaverecords/CmdPal.Ext.Spotify](https://github.com/waaverecords/CmdPal.Ext.Spotify)
-2. ❗ Opened issue [#1134](https://github.com/surfbryce/beautiful-lyrics/issues/1134) in [surfbryce/beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics)
+1. 🎉 Merged PR [#1](https://github.com/EndCod3r/medal-tools/pull/1) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
+2. 💪 Opened PR [#1](https://github.com/EndCod3r/medal-tools/pull/1) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
 3. 🚀 Published release [Release v0.2.1](https://github.com/EndCod3r/pc-optimizer/releases/tag/v0.2.1) in [EndCod3r/pc-optimizer](https://github.com/EndCod3r/pc-optimizer)
 <!--END_SECTION:activity-->
 
