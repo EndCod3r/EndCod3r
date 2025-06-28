@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/EndCod3r/medal-tools/releases/tag/v0.1.0) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
-2. 🎉 Merged PR [#3](https://github.com/EndCod3r/medal-tools/pull/3) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
-3. 💪 Opened PR [#3](https://github.com/EndCod3r/medal-tools/pull/3) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
+1. 🚀 Published release [v0.2.0](https://github.com/EndCod3r/medal-tools/releases/tag/v0.2.0) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
+2. 🎉 Merged PR [#4](https://github.com/EndCod3r/medal-tools/pull/4) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
+3. 💪 Opened PR [#4](https://github.com/EndCod3r/medal-tools/pull/4) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
 <!--END_SECTION:activity-->
 
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact&theme=transparent)
