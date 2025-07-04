@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Trolling Wanna Be Rapper Kid In Siege](https://www.youtube.com/watch?v=3zhHVL0fRgk)
   - [HIS BARBED WIRE SAVED THIS GAME!](https://www.youtube.com/watch?v=KKfcYfzfEag)
   - [5 IDIOTS TRY TO PLAY GUILTY AS SOCK!](https://www.youtube.com/watch?v=98tFbwipiKs)
   - [We Tried the Funniest Courtroom Game Ever!](https://www.youtube.com/watch?v=l6l_Cfwk978)
-  - [Rainbow Six Siege But We Are NOT LOCKED IN AT ALL](https://www.youtube.com/watch?v=ZlzpjL4xlpM)
-  - [TALON SUCKS AT SIEGE](https://www.youtube.com/watch?v=uoEDsU5hYos)<!-- YOUTUBE:END -->
+  - [Rainbow Six Siege But We Are NOT LOCKED IN AT ALL](https://www.youtube.com/watch?v=ZlzpjL4xlpM)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
