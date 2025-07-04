@@ -30,4 +30,6 @@
 3. 💪 Opened PR [#4](https://github.com/EndCod3r/medal-tools/pull/4) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
 <!--END_SECTION:activity-->
 
+  ![Spotify Stats](https://data-card-for-spotify.herokuapp.com/api/card?user_id=suam0fflauriliekh7cypfjzp)
+
   ![Top Langs](https://github-readme-stats-endlord15.vercel.app/api/top-langs/?username=endcod3r&layout=compact&theme=transparent)
