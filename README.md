@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [WE &quot;ACCIDENTALLY&quot; TEAM KILLED HIM](https://www.youtube.com/watch?v=LCtHvEb36AY)
   - [THEY WERE MAD FOR NO REASON | Rainbow Six Siege](https://www.youtube.com/watch?v=7DOnemQmBeo)
   - [I CRASHED OUT | Rainbow Six Siege Funny Moments](https://www.youtube.com/watch?v=qnlyZGPjv0Q)
   - [Trolling Wanna Be Rapper Kid In Siege](https://www.youtube.com/watch?v=3zhHVL0fRgk)
-  - [HIS BARBED WIRE SAVED THIS GAME!](https://www.youtube.com/watch?v=KKfcYfzfEag)
-  - [5 IDIOTS TRY TO PLAY GUILTY AS SOCK!](https://www.youtube.com/watch?v=98tFbwipiKs)<!-- YOUTUBE:END -->
+  - [HIS BARBED WIRE SAVED THIS GAME!](https://www.youtube.com/watch?v=KKfcYfzfEag)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
