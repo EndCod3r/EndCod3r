@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [HE CRASHED OUT | Rainbow Six Siege](https://www.youtube.com/watch?v=vHDBtNjBODk)
   - [This is a video about Rainbow Six Siege.](https://www.youtube.com/watch?v=13ho6CKPV8M)
   - [WE &quot;ACCIDENTALLY&quot; TEAM KILLED HIM](https://www.youtube.com/watch?v=LCtHvEb36AY)
   - [THEY WERE MAD FOR NO REASON | Rainbow Six Siege](https://www.youtube.com/watch?v=7DOnemQmBeo)
-  - [I CRASHED OUT | Rainbow Six Siege Funny Moments](https://www.youtube.com/watch?v=qnlyZGPjv0Q)
-  - [Trolling Wanna Be Rapper Kid In Siege](https://www.youtube.com/watch?v=3zhHVL0fRgk)<!-- YOUTUBE:END -->
+  - [I CRASHED OUT | Rainbow Six Siege Funny Moments](https://www.youtube.com/watch?v=qnlyZGPjv0Q)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
