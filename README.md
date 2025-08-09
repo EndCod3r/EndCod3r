@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Is THIS The Final PEAK?!](https://www.youtube.com/watch?v=cII4mHzVd2E)
   - [This Guy Sucks At PEAK!](https://www.youtube.com/watch?v=y6SSdFAwyD4)
   - [2 IDIOTS Try To Play PEAK!](https://www.youtube.com/watch?v=pPJ1CnynTGM)
   - [HIS HOUSE ALMOST BURNT DOWN](https://www.youtube.com/watch?v=I5_XpA6ig0k)
-  - [HE CRASHED OUT but it was Hilarous | Rainbow Six Siege](https://www.youtube.com/watch?v=vHDBtNjBODk)
-  - [This is a video about Rainbow Six Siege.](https://www.youtube.com/watch?v=13ho6CKPV8M)<!-- YOUTUBE:END -->
+  - [HE CRASHED OUT but it was Hilarous | Rainbow Six Siege](https://www.youtube.com/watch?v=vHDBtNjBODk)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
