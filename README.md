@@ -25,7 +25,7 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/magic-ike/spotify-data-card/issues/6) in [magic-ike/spotify-data-card](https://github.com/magic-ike/spotify-data-card)
+1. ❗ Opened issue [#5](https://github.com/EndCod3r/medal-tools/issues/5) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
 2. 🚀 Published release [v0.2.0](https://github.com/EndCod3r/medal-tools/releases/tag/v0.2.0) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
 3. 🎉 Merged PR [#4](https://github.com/EndCod3r/medal-tools/pull/4) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
 <!--END_SECTION:activity-->
