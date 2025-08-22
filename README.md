@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Ranked Siege But Our Teammates are HIGH!](https://www.youtube.com/watch?v=oXq7Bar13QI)
   - [WE MET KIM JONG-UN in Siege!](https://www.youtube.com/watch?v=cF-ARzQtNfA)
   - [The ACTUAL Final PEAK?!](https://www.youtube.com/watch?v=hl_6YAxtzaY)
   - [Is THIS The Final PEAK?!](https://www.youtube.com/watch?v=cII4mHzVd2E)
-  - [This Guy Sucks At PEAK!](https://www.youtube.com/watch?v=y6SSdFAwyD4)
-  - [2 IDIOTS Try To Play PEAK!](https://www.youtube.com/watch?v=pPJ1CnynTGM)<!-- YOUTUBE:END -->
+  - [This Guy Sucks At PEAK!](https://www.youtube.com/watch?v=y6SSdFAwyD4)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
