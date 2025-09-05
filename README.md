@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [I Played With The Worst Rainbow Six Siege Team Ever](https://www.youtube.com/watch?v=H80IRjvwS6Q)
   - [The Trenches of Copper in Siege Ranked!](https://www.youtube.com/watch?v=P79p6UXPzeA)
   - [Ranked Siege But Our Teammates are HIGH!](https://www.youtube.com/watch?v=oXq7Bar13QI)
   - [WE MET KIM JONG-UN in Siege!](https://www.youtube.com/watch?v=cF-ARzQtNfA)
-  - [The ACTUAL Final PEAK?!](https://www.youtube.com/watch?v=hl_6YAxtzaY)
-  - [Is THIS The Final PEAK?!](https://www.youtube.com/watch?v=cII4mHzVd2E)<!-- YOUTUBE:END -->
+  - [The ACTUAL Final PEAK?!](https://www.youtube.com/watch?v=hl_6YAxtzaY)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
