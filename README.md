@@ -25,7 +25,7 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/EndCod3r/medal-tools/issues/5) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
+1.  Assigned issue [#5](https://github.com/EndCod3r/medal-tools/issues/5) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
 2.  Labeled issue [#5](https://github.com/EndCod3r/medal-tools/issues/5) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
 3. ❗ Opened issue [#5](https://github.com/EndCod3r/medal-tools/issues/5) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
 <!--END_SECTION:activity-->
