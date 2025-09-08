@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/EndCod3r/medal-tools/issues/5) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
-2. 🚀 Published release [v0.2.0](https://github.com/EndCod3r/medal-tools/releases/tag/v0.2.0) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
-3. 🎉 Merged PR [#4](https://github.com/EndCod3r/medal-tools/pull/4) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
+1.  Assigned issue [#5](https://github.com/EndCod3r/medal-tools/issues/5) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
+2.  Labeled issue [#5](https://github.com/EndCod3r/medal-tools/issues/5) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
+3. ❗ Opened issue [#5](https://github.com/EndCod3r/medal-tools/issues/5) in [EndCod3r/medal-tools](https://github.com/EndCod3r/medal-tools)
 <!--END_SECTION:activity-->
 
   ![Spotify Stats](https://data-card-for-spotify.herokuapp.com/api/card?user_id=suam0fflauriliekh7cypfjzp)
