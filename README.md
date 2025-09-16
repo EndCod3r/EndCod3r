@@ -12,10 +12,10 @@
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
   - [RAGEBAITING My Friend In Siege IS HILARIOUS](https://www.youtube.com/watch?v=xgziQOPL64M)
+  - [Welcome to Dumb** Six Siege](https://www.youtube.com/watch?v=H80IRjvwS6Q)
   - [The Trenches of Copper in Siege Ranked!](https://www.youtube.com/watch?v=P79p6UXPzeA)
   - [Ranked Siege But Our Teammates are HIGH!](https://www.youtube.com/watch?v=oXq7Bar13QI)
-  - [WE MET KIM JONG-UN in Siege!](https://www.youtube.com/watch?v=cF-ARzQtNfA)
-  - [The ACTUAL Final PEAK?!](https://www.youtube.com/watch?v=hl_6YAxtzaY)<!-- YOUTUBE:END -->
+  - [WE MET KIM JONG-UN in Siege!](https://www.youtube.com/watch?v=cF-ARzQtNfA)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
