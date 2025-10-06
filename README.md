@@ -11,7 +11,7 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
-  - [SIEGE X IS FINALLY OUT](https://www.youtube.com/watch?v=O_qf9-pMKNY)
+  - [SIEGE X IS FINALLY OUT!!](https://www.youtube.com/watch?v=O_qf9-pMKNY)
   - [my final siege video...](https://www.youtube.com/watch?v=vJYvOm0A4uQ)
   - [Prank Calls in Siege Are HILARIOUS!](https://www.youtube.com/watch?v=1lrKOyx_g-A)
   - [RAGEBAITING My Friend In Siege IS HILARIOUS](https://www.youtube.com/watch?v=xgziQOPL64M)
