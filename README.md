@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [SCHIZOPHRENIC SIEGE X MOMENTS](https://www.youtube.com/watch?v=7IrJJmVMNR8)
   - [5 IDIOTS TRY TO PLAY RANKED IN SIEGE X](https://www.youtube.com/watch?v=09CvXgar6sY)
   - [SIEGE X IS FINALLY OUT!!](https://www.youtube.com/watch?v=O_qf9-pMKNY)
   - [my final siege video...](https://www.youtube.com/watch?v=vJYvOm0A4uQ)
-  - [Prank Calls in Siege Are HILARIOUS!](https://www.youtube.com/watch?v=1lrKOyx_g-A)
-  - [RAGEBAITING My Friend In Siege IS HILARIOUS](https://www.youtube.com/watch?v=xgziQOPL64M)<!-- YOUTUBE:END -->
+  - [Prank Calls in Siege Are HILARIOUS!](https://www.youtube.com/watch?v=1lrKOyx_g-A)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
