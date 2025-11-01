@@ -11,7 +11,7 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
-  - [SCHIZOPHRENIC SIEGE X MOMENTS](https://www.youtube.com/watch?v=7IrJJmVMNR8)
+  - [WE MET A SCHIZOPHRENIC ON SIEGE X](https://www.youtube.com/watch?v=7IrJJmVMNR8)
   - [5 IDIOTS TRY TO PLAY RANKED IN SIEGE X](https://www.youtube.com/watch?v=09CvXgar6sY)
   - [SIEGE X IS FINALLY OUT!!](https://www.youtube.com/watch?v=O_qf9-pMKNY)
   - [my final siege video...](https://www.youtube.com/watch?v=vJYvOm0A4uQ)
