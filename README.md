@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [GAMING CHAOS!](https://www.youtube.com/watch?v=fB-_nJHp-54)
   - [This RV There Yet Experience Was HILARIOUS!](https://www.youtube.com/watch?v=W128TSspNh0)
   - [The CRAZIEST Call of Duty Moments EVER!](https://www.youtube.com/watch?v=e1Ahk2kI2EQ)
   - [RUST JUST GOT EVEN FUNNIER!](https://www.youtube.com/watch?v=ELQDNNKWW2M)
-  - [WE MET A SCHIZOPHRENIC ON SIEGE X](https://www.youtube.com/watch?v=7IrJJmVMNR8)
-  - [5 IDIOTS TRY TO PLAY RANKED IN SIEGE X](https://www.youtube.com/watch?v=09CvXgar6sY)<!-- YOUTUBE:END -->
+  - [WE MET A SCHIZOPHRENIC ON SIEGE X](https://www.youtube.com/watch?v=7IrJJmVMNR8)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
