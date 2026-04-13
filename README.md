@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [One Inventory. One Health Bar. Four Idiots. [Part 1/2]](https://www.youtube.com/watch?v=0SfKGV32nn4)
   - [TWEAKING OUT ON SIEGE!](https://www.youtube.com/watch?v=WcVF5SMKvfY)
   - [GAMING CHAOS!](https://www.youtube.com/watch?v=fB-_nJHp-54)
   - [This RV There Yet Experience Was HILARIOUS!](https://www.youtube.com/watch?v=W128TSspNh0)
-  - [The CRAZIEST Call of Duty Moments EVER!](https://www.youtube.com/watch?v=e1Ahk2kI2EQ)
-  - [RUST JUST GOT EVEN FUNNIER!](https://www.youtube.com/watch?v=ELQDNNKWW2M)<!-- YOUTUBE:END -->
+  - [The CRAZIEST Call of Duty Moments EVER!](https://www.youtube.com/watch?v=e1Ahk2kI2EQ)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
