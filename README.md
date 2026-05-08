@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [Driving Trucks is HILARIOUS!](https://www.youtube.com/watch?v=8j3x3V5VwRg)
   - [One Inventory. One Health Bar. Four Idiots. [Part 2/2]](https://www.youtube.com/watch?v=7qrCLPOBsQs)
   - [One Inventory. One Health Bar. Four Idiots. [Part 1/2]](https://www.youtube.com/watch?v=0SfKGV32nn4)
   - [TWEAKING OUT ON SIEGE!](https://www.youtube.com/watch?v=WcVF5SMKvfY)
-  - [GAMING CHAOS!](https://www.youtube.com/watch?v=fB-_nJHp-54)
-  - [This RV There Yet Experience Was HILARIOUS!](https://www.youtube.com/watch?v=W128TSspNh0)<!-- YOUTUBE:END -->
+  - [GAMING CHAOS!](https://www.youtube.com/watch?v=fB-_nJHp-54)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
