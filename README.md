@@ -25,9 +25,9 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/SlonickLab/Smart-Replay-Mover/pull/18) in [SlonickLab/Smart-Replay-Mover](https://github.com/SlonickLab/Smart-Replay-Mover)
-2. 🗣 Commented on [#18](https://github.com/SlonickLab/Smart-Replay-Mover/pull/18#issuecomment-4166409767) in [SlonickLab/Smart-Replay-Mover](https://github.com/SlonickLab/Smart-Replay-Mover)
-3. 💪 Opened PR [#18](https://github.com/SlonickLab/Smart-Replay-Mover/pull/18) in [SlonickLab/Smart-Replay-Mover](https://github.com/SlonickLab/Smart-Replay-Mover)
+1. ℹ️ Labeled issue [#1](https://github.com/EndCod3r/Resolve-RPC/issues/1) in [EndCod3r/Resolve-RPC](https://github.com/EndCod3r/Resolve-RPC)
+2. ℹ️ Assigned issue [#1](https://github.com/EndCod3r/Resolve-RPC/issues/1) in [EndCod3r/Resolve-RPC](https://github.com/EndCod3r/Resolve-RPC)
+3. ❗ Opened issue [#1](https://github.com/EndCod3r/Resolve-RPC/issues/1) in [EndCod3r/Resolve-RPC](https://github.com/EndCod3r/Resolve-RPC)
 <!--END_SECTION:activity-->
 
   ![Spotify Stats](https://data-card-for-spotify.herokuapp.com/api/card?user_id=suam0fflauriliekh7cypfjzp)
