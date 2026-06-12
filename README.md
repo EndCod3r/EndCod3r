@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [2 IDIOTS PLAY ROCKET LEAGUE!](https://www.youtube.com/watch?v=apKjq9FsFas)
   - [4 IDIOTS PLAY OG FORTNITE!](https://www.youtube.com/watch?v=mRa5F1YcDLk)
   - [HOW DOES THIS HAPPEN?! | Fortnite OG](https://www.youtube.com/watch?v=4SQ9ABoN3ck)
   - [Our LUCKIEST Rust Wipe Ever!](https://www.youtube.com/watch?v=LgQct-mIrNg)
-  - [Driving Trucks is HILARIOUS!](https://www.youtube.com/watch?v=8j3x3V5VwRg)
-  - [One Inventory. One Health Bar. Four Idiots. [Part 2/2]](https://www.youtube.com/watch?v=7qrCLPOBsQs)<!-- YOUTUBE:END -->
+  - [Driving Trucks is HILARIOUS!](https://www.youtube.com/watch?v=8j3x3V5VwRg)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
