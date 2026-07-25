@@ -25,7 +25,7 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1](https://github.com/EndCod3r/Resolve-RPC/issues/1) in [EndCod3r/Resolve-RPC](https://github.com/EndCod3r/Resolve-RPC)
+1. 🚀 Published release [v0.2.0: DaVinci Resolve 21 Support](https://github.com/EndCod3r/Resolve-RPC/releases/tag/v0.2.0) in [EndCod3r/Resolve-RPC](https://github.com/EndCod3r/Resolve-RPC)
 2. 🚀 Published release [v0.1.0](https://github.com/EndCod3r/Resolve-RPC/releases/tag/v0.1.0) in [EndCod3r/Resolve-RPC](https://github.com/EndCod3r/Resolve-RPC)
 3. ℹ️ Labeled issue [#1](https://github.com/EndCod3r/Resolve-RPC/issues/1) in [EndCod3r/Resolve-RPC](https://github.com/EndCod3r/Resolve-RPC)
 <!--END_SECTION:activity-->
