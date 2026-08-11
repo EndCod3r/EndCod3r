@@ -11,11 +11,11 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
+  - [We had CAR S*X in Rocket League?!](https://www.youtube.com/watch?v=cw2dZ1m4lws)
   - [ROADTRIP GONE WRONG In Roblox](https://www.youtube.com/watch?v=yoTBtlw_3Z0)
   - [Being a NOOB in Rocket League is HILARIOUS!](https://www.youtube.com/watch?v=vSGQY8bTjJg)
   - [The CRAZIEST Overtime in Rocket League History!](https://www.youtube.com/watch?v=sx35_33mtrk)
-  - [These Fortnite Clips Are Actually HILARIOUS!](https://www.youtube.com/watch?v=AjmytBozaLA)
-  - [THE WORST ROCKET LEAGUE CLIPS](https://www.youtube.com/watch?v=xVGorN06zmc)<!-- YOUTUBE:END -->
+  - [These Fortnite Clips Are Actually HILARIOUS!](https://www.youtube.com/watch?v=AjmytBozaLA)<!-- YOUTUBE:END -->
 
 
 - 📫 How to reach me:
