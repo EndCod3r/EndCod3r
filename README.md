@@ -11,7 +11,7 @@
   - CSS
 
 - 📺 Latest YouTube Videos:<!-- YOUTUBE:START -->
-  - [I&#39;M THE SIEGE GOAT](https://www.youtube.com/watch?v=5w_Ds9HGiG0)
+  - [I&#39;M THE SIEGE GOAT!](https://www.youtube.com/watch?v=5w_Ds9HGiG0)
   - [INSANELY STUPID Rocket League Moments!](https://www.youtube.com/watch?v=nKh4T7GtWJs)
   - [3 IDIOTS PLAY ROCKET LEAGUE!](https://www.youtube.com/watch?v=j8kk38C90ns)
   - [We had CAR S*X in Rocket League?!](https://www.youtube.com/watch?v=cw2dZ1m4lws)
