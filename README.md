@@ -21,7 +21,7 @@
 - 📫 How to reach me:
   - Youtube : <https://youtube.com/@endlordhd>
   - Discord : [@EndLordHD](https://discord.com/users/725204289022066688)
-  - Email : endlord15@pm.me
+  - Email : contact@endlord.dev
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
