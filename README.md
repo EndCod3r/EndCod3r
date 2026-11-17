@@ -25,8 +25,8 @@
 
  - ⚡️ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14216](https://github.com/obsproject/obs-studio/issues/14216) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-2. 🚀 Published release [v0.2.0: DaVinci Resolve 21 Support](https://github.com/EndCod3r/Resolve-RPC/releases/tag/v0.2.0) in [EndCod3r/Resolve-RPC](https://github.com/EndCod3r/Resolve-RPC)
+1. 🗣 Commented on [#14216](https://github.com/obsproject/obs-studio/issues/14216#issuecomment-6947819412) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+2. ❗ Opened issue [#14216](https://github.com/obsproject/obs-studio/issues/14216) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 3. ℹ️ Labeled issue [#1](https://github.com/EndCod3r/Resolve-RPC/issues/1) in [EndCod3r/Resolve-RPC](https://github.com/EndCod3r/Resolve-RPC)
 <!--END_SECTION:activity-->
 
